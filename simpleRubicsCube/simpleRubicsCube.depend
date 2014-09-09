@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1410162598 source:c:\users\ruoyang\documents\github\simplerubicscube\simplerubicscube\main.cpp
+	<iostream>
+	"rubicksCube.h"
+
+1410164837 c:\users\ruoyang\documents\github\simplerubicscube\simplerubicscube\rubickscube.h
+	<iostream>
+
+1410163617 source:c:\users\ruoyang\documents\github\simplerubicscube\simplerubicscube\rubickscube.cpp
+	<iostream>
+	"rubicksCube.h"
+
